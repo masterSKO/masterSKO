@@ -19,7 +19,7 @@ I’m a backend-focused developer who loves building robust, scalable applicatio
 
 - 🔍 **Jobify** – A full-featured job portal built in Java with login/auth, job search, and recruiter dashboards.  
 - ⚽ **Shivendra Football Quiz** – A football-themed interactive quiz game with lifelines and difficulty levels.  
-- 🏫 **Student Management System** – A CRUD-based student tracker using Java and JDBC (coming soon 👀).
+- 🏫 **Student Management System** – A CRUD-based student tracker using Java and JDBC .
 
 Explore my repositories to see these in action!
 
